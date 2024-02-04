@@ -1,2 +1,4 @@
 Here are the links for some papers being used for this project:
-https://
+https:// https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880464/
+https://www.nature.com/articles/s41586-023-05905-z
+https://www.frontiersin.org/articles/10.3389/fendo.2021.636267/full
