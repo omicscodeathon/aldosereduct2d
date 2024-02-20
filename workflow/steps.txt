@@ -1,11 +1,18 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
 . Pull down the reads
-.
-.
-.
-.
-.
-.
+.Protein target preparation
+.Retrieval of compounds from database
+.Pre-filtering of compounds 
+.Molecular docking of compounds using AutodockVina
+MACHINE LEARNING PREDICTION
+.Download and cleaning of data
+.Feature engineering
+.Development and classification of models
+.Model evaluation and refinement
+.Predic inhibitory activity
+.Validate predicted inhibitor
+.Protein-ligand interaction analysis
+.ADMET Prediction studies
 .
 .
 .
