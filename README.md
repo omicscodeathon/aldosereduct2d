@@ -23,7 +23,7 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
    
 2. To determine the stability of the docked complexes using molecular dynamics simulation
 
-## Methods
+## Project Workflow
 
 ![image](https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/cd7521ae-6086-4544-b29a-44e27160c9e6)
 
