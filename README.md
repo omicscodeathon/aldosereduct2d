@@ -8,7 +8,7 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Objectives](https://github.com/omicscodeathon/aldosereduct2d#objectives)
 
-[Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#methods)  
+[Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
 ## Introduction
 
@@ -32,7 +32,7 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 
 ![image-removebg-preview](https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/1e2d352a-4ecd-454b-b497-3e4ad5ca7367)
 
-### Project Workflow
+### Bioinformatics Project Workflow
 
 ![image](https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/cd7521ae-6086-4544-b29a-44e27160c9e6)
 
