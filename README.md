@@ -32,9 +32,7 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 
 ![image-removebg-preview](https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/1e2d352a-4ecd-454b-b497-3e4ad5ca7367)
 
-### Bioinformatics Project Workflow
 
-<img width="361" alt="a" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/d86c3c76-d23b-414c-b8eb-6da9ebf197e1">
 
 
 
