@@ -32,8 +32,17 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 
 ## Results
 
+### Preparation of Protein and Energy Minimization
 
+### Molecular Docking
 
+### Validation of Docking Protocol
+
+### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
+
+### Protein-Ligand Interaction
+
+###  PASS 
 
 
 
