@@ -10,6 +10,8 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
+[Results](https://github.com/omicscodeathon/aldosereduct2d#research-results)  
+
 ## Introduction
 
 Diabetes mellitus (DM) remains a leading cause of morbidity and mortality globally, primarily due to chronic microvascular and macrovascular complications. These complications arise as a result of the activation of certain biological pathways that increase the accumulation of reactive oxygen species (ROS) and cytokines thereby inducing inflammation and oxidative stress.
@@ -27,6 +29,10 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 
 ### The General Research Workflow
 <img width="350" alt="MY IMAGE" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/c6e60a61-2f95-4197-8ccc-e095bb545426">
+
+## Results
+
+
 
 
 
