@@ -28,9 +28,7 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 ### The General Research Workflow
 <img width="350" alt="MY IMAGE" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/c6e60a61-2f95-4197-8ccc-e095bb545426">
 
-### Machine Learning Workflow
 
-![image-removebg-preview](https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/1e2d352a-4ecd-454b-b497-3e4ad5ca7367)
 
 
 
