@@ -11,11 +11,11 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Molecular docking results]
+Molecular docking results
 
-[Docking validation]
+Docking validation
 
-[Pharmacokinetics properties of predicted compounds]
+Pharmacokinetics properties of predicted compounds
 
 Reproducibility
 
@@ -23,7 +23,7 @@ Discussion
 
 Team
 
-Acknowledgement
+Acknowledgment
 
 References
 
@@ -35,14 +35,18 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 **Aldose reductase (AR)** is a key enzyme of the polyol pathway that catalyzes NADPH-dependent reduction of glucose to sorbitol however, increased enzyme activity and excessive accumulation of intracellular sorbitol under hyperglycaemic conditions have been proposed to be an important factor in the development of diabetic complications. Over the years, inhibiting AR has emerged as a crucial strategy for preventing and mitigating long-term diabetic complications. However, drug development efforts targeting AR have encountered significant challenges, which include toxicity, adverse reactions, and lack of specificity. This study aims to explore active compounds indigenous to the African region, _which exhibit high specificity as potential AR inhibitors_, thus presenting viable prospects for pharmacological intervention.
 
 ## Objectives
+Specific Objectives 
+1. To predict lead compounds through structure-based virtual screening.
 
-1. To identify potential inhibitors of aldose reductase using computational methods.
-   
-2. To determine the stability of the docked complexes using molecular dynamics simulation
+2. To characterize the pharmacological and physicochemical properties of the selected lead compounds.
+
+3. To  elucidate  the  inhibitory  activity  of  the  lead  compounds  using the prediction  of  activity spectra for substances
+
+4. To determine the stability of the docked complexes using molecular dynamics simulation
+
 
 ## Research Methodology
 ![image](workflow/Workflow.PNG)
-
 
 ## Results
 Molecular docking
