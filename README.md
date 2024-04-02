@@ -54,7 +54,7 @@ Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c0d124613d9cfe2e6a94907b621bc8bc6fe8bc47/output/Top%2020%20ligands.PNG)
 
 ### Validation of Docking Protocol
-![image](output/Validation by superimposition.PNG)
+![image](https://github.com/omicscodeathon/aldosereduct2d/blob/382b7f2d5f07a2d49b3ea2369f357392803b1335/output/Validation%20by%20superimposition.PNG)
 
 ### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
 ![image](output/Toxicity profiling.PNG)
