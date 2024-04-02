@@ -8,7 +8,6 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Objectives](https://github.com/omicscodeathon/aldosereduct2d#objectives)
 
-Data
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
