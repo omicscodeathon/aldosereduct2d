@@ -12,7 +12,7 @@ Data
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Results]README.md
+[Results][Molecular docking results.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830662/Molecular.docking.results.docx)
 
 Reproducibility
 
