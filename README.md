@@ -12,7 +12,7 @@ Data
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Results][Molecular docking results.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830662/Molecular.docking.results.docx)
+[Results]
 
 Reproducibility
 
@@ -21,8 +21,6 @@ Discussion
 Team
 
 Acknowledgement
-Miriam Gakpey
-Shadrack Arhin Aidoo
 
 References
 
