@@ -21,6 +21,8 @@ Discussion
 Team
 
 Acknowledgement
+Miriam Gakpey
+Shadrack Arhin Aidoo
 
 References
 
