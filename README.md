@@ -8,9 +8,21 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Objectives](https://github.com/omicscodeathon/aldosereduct2d#objectives)
 
+Data
+
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
 [Results](https://github.com/omicscodeathon/aldosereduct2d#research-results)  
+
+Reproducibility
+
+Discussion
+
+Team
+
+Acknowledgement
+
+References
 
 ## Introduction
 
@@ -28,10 +40,63 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 ## Research Methodology
 ![image](https://github.com/omicscodeathon/aldosereduct2d/assets/137441049/5e1a8014-4266-4554-8ddb-74edfcf02e83)
 
-### The General Research Workflow
-<img width="350" alt="MY IMAGE" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/c6e60a61-2f95-4197-8ccc-e095bb545426">
 
-## Results
+## ResultsCompound Name 
+Affinity
+Top 20 compounds (AfroDB/ANPDB)
+4,5-di-p-trans-coumaroylquinic_acid
+-12.3
+(+)-pipoxide
+-11.4
+Thymelol
+-11.4
+Zinc000095485961
+-11.2
+Rutamontine
+-11.1
+(-)-tingtanoxide
+-11
+Tricoccin_s13_acetate
+-11
+Lactupicrin
+-11
+Naamidine_a
+-11
+Zinc000000134782
+-10.9
+Sigmoidin_b_4'-methylether_diacetate
+-10.9
+(-)-pipoxide
+-10.9
+Abyssinone_ii
+-10.8
+(+)-strigol
+-10.8
+Norisojamicin
+-10.8
+Calopogonium_isoflavone_b
+-10.8
+Isosamarcandin
+-10.8
+(+)-pipoxide-2-methyl_ether
+-10.8
+Zinc000095485890
+-10.8
+1,6-di-o-p-hydroxybenzoyl-beta-d-glucopyranoside
+-10.7
+Standard inhibitors
+Zopolrestat
+-9.9
+epalrestat
+-8.8
+IDD594
+-8.1
+tolerestat
+-7.6
+Sorbinil
+-7.4
+
+
 
 ### Preparation of Protein and Energy Minimization
 
