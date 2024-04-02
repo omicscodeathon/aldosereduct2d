@@ -61,7 +61,7 @@ Molecular docking
 ![image](output/Pharmokinetics.PNG)
 
 ### Protein-Ligand Interaction
-![image](output/Protein Ligand Interactions.PNG)
+![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c5a9ecca3cc57f884fc5e0d65ed909bf5aa1eaee/output/Protein%20Ligand%20Interactions.PNG)
 ###  PASS 
 ![image](output/PASS.PNG)
 
