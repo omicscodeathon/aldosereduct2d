@@ -15,7 +15,7 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Docking Validation](https://github.com/omicscodeathon/aldosereduct2d#validation-of-docking-protocol)
   
-[Pharmacokinetics Properties of Predicted Compounds](https://github.com/omicscodeathon/aldosereduct2d/edit/main/README.md#absorption-distribution-metabolism-excretion-and-toxicity-admet-prediction)
+[Pharmacokinetics Properties of Predicted Compounds](https://github.com/omicscodeathon/aldosereduct2d/#absorption-distribution-metabolism-excretion-and-toxicity-admet-prediction)
   
 [Protein-Ligand Interaction of Top Lead Compounds](https://github.com/omicscodeathon/aldosereduct2d#protein-ligand-interaction)
 
@@ -65,7 +65,12 @@ Specific Objectives
 ![image](output/Pharmokinetics.PNG)
 
 ### Protein-Ligand Interaction
-![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c5a9ecca3cc57f884fc5e0d65ed909bf5aa1eaee/output/Protein%20Ligand%20Interactions.PNG)
+<img width="256" alt="A1" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/aa3897b0-774b-481c-93b8-4b3b5d2af1f7">
+<img width="289" alt="A2" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/b0dbc33e-2acc-47fd-b794-99dfe88fa27e">
+<img width="318" alt="A3" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/4242c2a9-d7d8-477d-a058-71fcf77d4f8c">
+<img width="264" alt="A4" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/507930a9-87ec-446d-8a3c-4d82db964048">
+<img width="308" alt="A5" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/d6bec2bd-c5ca-4c4a-9c09-4a699502e70e">
+
 ###  PASS 
 ![image](output/PASS.PNG)
 
