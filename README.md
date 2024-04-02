@@ -12,7 +12,7 @@ Data
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Results](https://github.com/omicscodeathon/aldosereduct2d#research-results)  
+[Results]README.md
 
 Reproducibility
 
