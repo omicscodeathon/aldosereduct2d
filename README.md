@@ -12,7 +12,10 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
 [Molecular docking results.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830806/Molecular.docking.results.docx)
-[Docking validation.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830850/Docking.validation.docx)[Pharmacokinetics properties of predicted compounds.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830872/Pharmacokinetics.properties.of.predicted.compounds.docx)
+
+[Docking validation.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830850/Docking.validation.docx)
+
+[Pharmacokinetics properties of predicted compounds.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830872/Pharmacokinetics.properties.of.predicted.compounds.docx)
 
 
 Reproducibility
