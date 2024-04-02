@@ -41,12 +41,9 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 ![image](https://github.com/omicscodeathon/aldosereduct2d/assets/137441049/5e1a8014-4266-4554-8ddb-74edfcf02e83)
 
 
-## Results[(https://docs.google.com/document/u/0/d/1wwd1Oa7Z4uc_uLaCBwhiqfTtbwsPQdNUhEZZVTOxRP8/edit)
-
-
-### Preparation of Protein and Energy Minimization
-
-### Molecular Docking
+## Results
+Molecular docking
+(https://github.com/omicscodeathon/aldosereduct2d/assets/137441049/5e1a8014-4266-4554-8ddb-74edfcf02e83)
 
 ### Validation of Docking Protocol
 
