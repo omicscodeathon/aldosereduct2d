@@ -11,11 +11,15 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-Molecular docking results
+[Molecular Docking Results](https://github.com/omicscodeathon/aldosereduct2d#results)
 
-Docking validation
+[Docking Validation](https://github.com/omicscodeathon/aldosereduct2d#validation-of-docking-protocol)
+  
+[Pharmacokinetics Properties of Predicted Compounds](https://github.com/omicscodeathon/aldosereduct2d/edit/main/README.md#absorption-distribution-metabolism-excretion-and-toxicity-admet-prediction)
+  
+[Protein-Ligand Interaction of Top Lead Compounds](https://github.com/omicscodeathon/aldosereduct2d#protein-ligand-interaction)
 
-Pharmacokinetics properties of predicted compounds
+[PASS](https://github.com/omicscodeathon/aldosereduct2d#pass)
 
 Reproducibility
 
@@ -49,7 +53,7 @@ Specific Objectives
 ![image](workflow/Workflow.PNG)
 
 ## Results
-Molecular docking
+### Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/6a9f7900d8768a2ac27a4a680d85df503d25c66d/workflow/Docking.PNG)
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c0d124613d9cfe2e6a94907b621bc8bc6fe8bc47/output/Top%2020%20ligands.PNG)
 
