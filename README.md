@@ -11,7 +11,7 @@ Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Molecular docking results.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830806/Molecular.docking.results.docx)
+[Molecular docking results](https://github.com/omicscodeathon/aldosereduct2d#Molecular docking)
 
 [Docking validation.docx](https://github.com/omicscodeathon/aldosereduct2d/files/14830850/Docking.validation.docx)
 
@@ -58,9 +58,9 @@ Molecular docking
 ![image](output/Pharmokinetics.PNG)
 
 ### Protein-Ligand Interaction
-
+![image](output/Protein Ligand Interactions.PNG)
 ###  PASS 
-
+![image](output/PASS.PNG)
 
 
 
