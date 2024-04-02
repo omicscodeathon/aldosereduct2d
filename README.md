@@ -57,7 +57,7 @@ Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/382b7f2d5f07a2d49b3ea2369f357392803b1335/output/Validation%20by%20superimposition.PNG)
 
 ### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
-![image](output/Toxicity profiling.PNG)
+![image](https://github.com/omicscodeathon/aldosereduct2d/blob/2b2ef70a5661b8e7784f21f71a108276dee0fdae/output/Toxicity%20profiling.PNG)
 ![image](output/Pharmokinetics.PNG)
 
 ### Protein-Ligand Interaction
