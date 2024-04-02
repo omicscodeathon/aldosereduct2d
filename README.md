@@ -48,6 +48,7 @@ Globally, the incidence of diabetes mellitus has surged to epidemic levels, espe
 ## Results
 Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/6a9f7900d8768a2ac27a4a680d85df503d25c66d/workflow/Docking.PNG)
+![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c0d124613d9cfe2e6a94907b621bc8bc6fe8bc47/output/Top%2020%20ligands.PNG)
 
 ### Validation of Docking Protocol
 
