@@ -1,0 +1,2 @@
+Marker	AUC	SE.AUC	LowerLimit	UpperLimit	z	p-value
+Binding.Energy	0.77264	0.12274	0.53208	1	2.22137	0.02633
