@@ -1,13 +1,13 @@
 # aldosereduct2d
 
-Targeting Aldose Reductase as a Potential Therapeutic in Diabetes
+IN-SILICO SCREENING OF NATURAL COMPOUNDS AS POTENTIAL INHIBITORS OF ALDOSE REDUCTASE IN THE MANAGEMENT OF DIABETIC COMPLICATIONS
+
 
 ## Table of Content
 
 [Introduction](https://github.com/omicscodeathon/aldosereduct2d#introduction)
 
 [Objectives](https://github.com/omicscodeathon/aldosereduct2d#objectives)
-
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
@@ -50,15 +50,13 @@ Specific Objectives
 
 
 ## Research Methodology
-![image](workflow/Workflow.PNG)
+![image](workflow/Workflow.docx)
 
 ## Results
 ### Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/6a9f7900d8768a2ac27a4a680d85df503d25c66d/workflow/Docking.PNG)
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c0d124613d9cfe2e6a94907b621bc8bc6fe8bc47/output/Top%2020%20ligands.PNG)
 
-### Validation of Docking Protocol
-![image](https://github.com/omicscodeathon/aldosereduct2d/blob/382b7f2d5f07a2d49b3ea2369f357392803b1335/output/Validation%20by%20superimposition.PNG)
 
 ### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/2b2ef70a5661b8e7784f21f71a108276dee0fdae/output/Toxicity%20profiling.PNG)
@@ -73,6 +71,10 @@ Specific Objectives
 
 ###  PASS 
 ![image](Figures/PASS.PNG)
+
+### Molecular Dynamics Simulations
+
+### MMPBSA Analysis of Interactions
 
 
 
