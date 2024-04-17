@@ -11,25 +11,19 @@ IN-SILICO SCREENING OF NATURAL COMPOUNDS AS POTENTIAL INHIBITORS OF ALDOSE REDUC
 
 [Research Methodology](https://github.com/omicscodeathon/aldosereduct2d#research-methodology)  
 
-[Molecular Docking Results](https://github.com/omicscodeathon/aldosereduct2d#results)
+[Results](https://github.com/omicscodeathon/aldosereduct2d#results)
 
-[Docking Validation](https://github.com/omicscodeathon/aldosereduct2d#validation-of-docking-protocol)
-  
-[Pharmacokinetics Properties of Predicted Compounds](https://github.com/omicscodeathon/aldosereduct2d/#absorption-distribution-metabolism-excretion-and-toxicity-admet-prediction)
-  
-[Protein-Ligand Interaction of Top Lead Compounds](https://github.com/omicscodeathon/aldosereduct2d#protein-ligand-interaction-of-top-lead-compounds)
+[Discussion](https://github.com/omicscodeathon/aldosereduct2d#Discussion)
 
-[PASS](https://github.com/omicscodeathon/aldosereduct2d#pass)
 
-Reproducibility
+[Contribution to the field](https://github.com/omicscodeathon/aldosereduct2d#Contribution_to_the_field)
 
-Discussion
 
-Team
+[Team](https://github.com/omicscodeathon/aldosereduct2d#Team)
 
-Acknowledgment
+[Acknowledgements](https://github.com/omicscodeathon/aldosereduct2d#Acknowledgement)
 
-References
+[References](https://github.com/omicscodeathon/aldosereduct2d#References)
 
 ## Introduction
 
@@ -80,11 +74,10 @@ Specific Objectives
 ## Discussion
 
 Five natural compounds namely (+)-pipoxide, Zinc000095485961, Naamidine A, (-)-pipoxide, and 1,6-di-o-p-hydroxybenzoyl-beta-d-glucopyranoside were found to be potential inhibitors of aldose reductase. Molecular docking results showed these compounds to have binding energy between -12.3 and -10.7 Kcal/mol which was higher than standard inhibitors used in the study. ADMET and protein-ligand interactions showed that while these compounds interact with active site amino acid residues through hydrogen bond interactions, they possess good pharmacological and low toxicity profiles. Prediction of biological activity showed Zinc000095485961, and 1,6-di-o-p-hydroxybenzoyl-beta-d-glucopyranoside to possess aldose inhibitory activity. Molecular dynamics simulations showed that the compounds bound to AR showed high stability and less conformational change to the protein.
-Conclusion: This study highlights the potential inhibitory activity of these compounds aldose reductase protein that can be found within the African region and used in the development of therapeutic agents to manage diabetes
-![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/cd08b558-67e2-4510-b50b-abafc266a507)
+Conclusion: This study highlights the potential inhibitory activity of these compounds aldose reductase protein that can be found within the African region and used in the development of therapeutic agents to manage diabetes.
 
 ## Contributions to the field
-The study significantly contributes to the field of in-silico drug design by identifying novel African natural compounds with promising pharmacological profiles for inhibiting aldose reductase. This is particularly relevant due to the existing limitations of approved aldose reductase inhibitors, which are often associated with adverse side effects. By pinpointing five natural compounds, the research offers potential alternatives that are predicted to exhibit molecular stability and interact with critical residues within the aldose reductase binding site. Overall, the study sheds light on the inhibitory mechanisms of these compounds and their potential efficacy as aldose reductase inhibitors.![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/33bb174e-99b6-4c19-8293-978280758db7)
+The study significantly contributes to the field of in-silico drug design by identifying novel African natural compounds with promising pharmacological profiles for inhibiting aldose reductase. This is particularly relevant due to the existing limitations of approved aldose reductase inhibitors, which are often associated with adverse side effects. By pinpointing five natural compounds, the research offers potential alternatives that are predicted to exhibit molecular stability and interact with critical residues within the aldose reductase binding site. Overall, the study sheds light on the inhibitory mechanisms of these compounds and their potential efficacy as aldose reductase inhibitors.
 
 
 ## Team
@@ -111,7 +104,7 @@ The study significantly contributes to the field of in-silico drug design by ide
 
 
 ## Acknowledgment
-The authors thank the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) for their immense support before and during the April 2024 Omics codeathon organized in collaboration with the African Society for Bioinformatics and Computational Biology (ASBCB).![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/23b9fce6-d1f6-4aaa-91d1-45cdc87bff06)
+The authors thank the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) for their immense support before and during the April 2024 Omics codeathon organized in collaboration with the African Society for Bioinformatics and Computational Biology (ASBCB).
 
 
 ## References
