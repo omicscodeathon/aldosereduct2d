@@ -77,6 +77,45 @@ Specific Objectives
 ### MMPBSA Analysis of Interactions
 
 
+## Discussion
+
+Five natural compounds namely (+)-pipoxide, Zinc000095485961, Naamidine A, (-)-pipoxide, and 1,6-di-o-p-hydroxybenzoyl-beta-d-glucopyranoside were found to be potential inhibitors of aldose reductase. Molecular docking results showed these compounds to have binding energy between -12.3 and -10.7 Kcal/mol which was higher than standard inhibitors used in the study. ADMET and protein-ligand interactions showed that while these compounds interact with active site amino acid residues through hydrogen bond interactions, they possess good pharmacological and low toxicity profiles. Prediction of biological activity showed Zinc000095485961, and 1,6-di-o-p-hydroxybenzoyl-beta-d-glucopyranoside to possess aldose inhibitory activity. Molecular dynamics simulations showed that the compounds bound to AR showed high stability and less conformational change to the protein.
+Conclusion: This study highlights the potential inhibitory activity of these compounds aldose reductase protein that can be found within the African region and used in the development of therapeutic agents to manage diabetes
+![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/cd08b558-67e2-4510-b50b-abafc266a507)
+
+## Contributions to the field
+The study significantly contributes to the field of in-silico drug design by identifying novel African natural compounds with promising pharmacological profiles for inhibiting aldose reductase. This is particularly relevant due to the existing limitations of approved aldose reductase inhibitors, which are often associated with adverse side effects. By pinpointing five natural compounds, the research offers potential alternatives that are predicted to exhibit molecular stability and interact with critical residues within the aldose reductase binding site. Overall, the study sheds light on the inhibitory mechanisms of these compounds and their potential efficacy as aldose reductase inhibitors.![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/33bb174e-99b6-4c19-8293-978280758db7)
+
+
+## Team
+. Miriam E.L Gakpey1
+. Shadrack A. Aidoo
+. Toheeb Jumah
+. Siyabonga Msipa
+. Florence N. Mbaoji
+. Omonijo Bukola
+. Christabela P. Tjale
+. Mamadou Sangare
+. Hedia Tebourbi
+. Olaitan I. Awe
+![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/fea116a4-0d62-494f-9598-7773ec254cb2)
+
+
+## Acknowledgment
+The authors thank the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) for their immense support before and during the April 2024 Omics codeathon organized in collaboration with the African Society for Bioinformatics and Computational Biology (ASBCB).![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/23b9fce6-d1f6-4aaa-91d1-45cdc87bff06)
+
+
+## References
+1. Ashik, M. A., Islam, T., Fujii, M., Alam, M. M., & Hossain, M. N. (2022). Interaction pattern of aldose reductase with β-glucogallin: Active site exploration and multiple docking analyses. Informatics in Medicine Unlocked, 30, 100938. https://doi.org/10.1016/j.imu.2022.100938
+   
+2. Fidele Ntie-Kang, Telukunta, K. K., Kersten Döring, Simoben, C. V., Aurélien F. A. Moumbock, Malange, Y. I., Njume, L. E., Yong, J. N., Sippl, W., & Günther, S. (2017). NANPDB: A Resource for Natural Products from Northern African Sources Journal of Natural Products, 80(7), 2067-2076. https://doi.org/10.1021/acs.jnatprod.7b00283
+
+
+
+
+
+
+
 
 
 
