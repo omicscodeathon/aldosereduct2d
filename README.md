@@ -88,15 +88,24 @@ The study significantly contributes to the field of in-silico drug design by ide
 
 
 ## Team
-  Miriam E.L Gakpey1
+  Miriam E.L Gakpey
+  
   Shadrack A. Aidoo
+  
   Toheeb Jumah
+  
   Siyabonga Msipa
+  
   Florence N. Mbaoji
+  
   Omonijo Bukola
+  
   Christabela P. Tjale
+  
   Mamadou Sangare
+  
   Hedia Tebourbi
+  
   Olaitan I. Awe
 
 
