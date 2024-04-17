@@ -50,7 +50,7 @@ Specific Objectives
 
 
 ## Research Methodology
-![image](workflow/Workflow.docx)
+![image](workflow/Workflow-1.jpg)
 
 ## Results
 ### Molecular docking
