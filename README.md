@@ -88,16 +88,16 @@ The study significantly contributes to the field of in-silico drug design by ide
 
 
 ## Team
-. Miriam E.L Gakpey1
-. Shadrack A. Aidoo
-. Toheeb Jumah
-. Siyabonga Msipa
-. Florence N. Mbaoji
-. Omonijo Bukola
-. Christabela P. Tjale
-. Mamadou Sangare
-. Hedia Tebourbi
-. Olaitan I. Awe
+Miriam E.L Gakpey1
+Shadrack A. Aidoo
+Toheeb Jumah
+Siyabonga Msipa
+Florence N. Mbaoji
+Omonijo Bukola
+Christabela P. Tjale
+Mamadou Sangare
+Hedia Tebourbi
+Olaitan I. Awe
 ![image](https://github.com/omicscodeathon/aldosereduct2d/assets/138494661/fea116a4-0d62-494f-9598-7773ec254cb2)
 
 
