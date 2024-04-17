@@ -53,7 +53,6 @@ Specific Objectives
 
 ### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/2b2ef70a5661b8e7784f21f71a108276dee0fdae/output/Toxicity%20profiling.PNG)
-![image](Figures/Pharmokinetics.PNG)
 
 ### Protein-Ligand Interaction of Top Lead Compounds
 <img width="256" alt="A1" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/aa3897b0-774b-481c-93b8-4b3b5d2af1f7">
