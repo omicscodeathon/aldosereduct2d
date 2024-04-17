@@ -49,8 +49,7 @@ Specific Objectives
 ## Results
 ### Molecular docking
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/6a9f7900d8768a2ac27a4a680d85df503d25c66d/workflow/Docking.PNG)
-![image](https://github.com/omicscodeathon/aldosereduct2d/blob/c0d124613d9cfe2e6a94907b621bc8bc6fe8bc47/output/Top%2020%20ligands.PNG)
-
+![image](Figures/Docking_top20-1.jpg)
 
 ### Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) Prediction
 ![image](https://github.com/omicscodeathon/aldosereduct2d/blob/2b2ef70a5661b8e7784f21f71a108276dee0fdae/output/Toxicity%20profiling.PNG)
@@ -64,11 +63,13 @@ Specific Objectives
 <img width="308" alt="A5" src="https://github.com/omicscodeathon/aldosereduct2d/assets/108574845/d6bec2bd-c5ca-4c4a-9c09-4a699502e70e">
 
 ###  PASS 
-![image](Figures/PASS.PNG)
+![image](Figures/PASS-1.jpg)
 
 ### Molecular Dynamics Simulations
+![image](Figures/MD_pics-1.jpg)
 
 ### MMPBSA Analysis of Interactions
+![image](Figures/Zinc000961_MMPBSA.jpg)
 
 
 ## Discussion
