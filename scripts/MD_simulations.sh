@@ -8,22 +8,28 @@ grep UNK1 IUS0_clean.pdb > unk1.pdb
 tar -zxvf charmm36-jul2022.ff.tgz
 
 # Running the force field on the aldose reductase protein without the ligand
-gmx pdb2gmx -f 3HTB_clean.pdb -o 3HTB_processed.gro -ter
+gmx pdb2gmx -f 1US0_clean.pdb -o 3HTB_processed.gro -ter
 
 # 2. Prepare the Ligand Topology
-# Sort ligand coordinates to match bond coordinates
+# Convert your ligand to .mol2 file using the Avagrodro's tool. 
+# Using the same tool add hygrogen atoms to the molecules
+# Sort ligand coordinates to match bond coordinates using the "perl sort_mol2_bonds.pl" script 
+# The "perl sort_mol2_bonds.pl" script is located in the script folder in this repository
 perl sort_mol2_bonds.pl unk1.mol2 unk1_fix.mol2
 
 # Generate ligand topology with CGenFF
 # Visit CGenFF server and upload fixed ligand to generate stream file (.str)
-# Convert CHARMM topology to GROMACS format
-python cgenff_charmm2gmx.py UNK1 unk1_fix.mol2 unk1.str charmm36-jul2022.ff
+# Convert CHARMM topology to GROMACS format using the cgenff_charmm2gmx_py3_nx2.py  script
+# The "cgenff_charmm2gmx_py3_nx2.py" is located in the scripts folder
+python cgenff_charmm2gmx_py3_nx2.py UNK1 unk1_fix.mol2 unk1.str charmm36-jul2022.ff
+
 
 # 3. Build the Protein-Ligand Complex
-# Convert ligand to GROMACS format
+# Convert ligand to GROMACS format 
 gmx editconf -f unk1_ini.pdb -o unk1.gro
 # Paste ligand coordinates into protein file to create complex.gro
 # Incorporate ligand topology into protein topology
+
 
 # 4. Defining the Unit Cell & Adding Solvent
 # Define unit cell and fill with water
